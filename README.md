@@ -4,7 +4,7 @@ If you use this code or data in your research, please cite our paper:
 ﻿
 **Enhanced Structural Anomaly Detection through Improved Image Inpainting and Feature-Level Discrimination**  
 Authors: Fei Dongce, Wu Qiling  
-Journal: The Visual Computer  
+Journal:   
 Year: [Publication Year]  
 DOI: [DOI of the Article]
 
